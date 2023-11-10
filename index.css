@@ -1,0 +1,21 @@
+* {
+    background-color: aqua;
+}
+
+#pplcounter {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+ }
+
+ #increment-btn{
+    background-color: beige;
+    margin-bottom: 5%;
+ }
+
+ #count-el {
+    text-align: center;
+ }
+ #save-btn {
+   background-color: green;
+ }
