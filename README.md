@@ -6,4 +6,4 @@ The count is reset to 0 when you hit save.
 If you are working on an app and needed to implement this "function" into your code then this is for you.
 If you just wanted to learn about some simple js functions this also for you.
 
-Enjoy your day if you are reading this!
+
